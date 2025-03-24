@@ -37,11 +37,6 @@ public class EstadisticaPOO{
         return Math.sqrt(sumaDiferencias / (numeros.length - 1));
     }
 
-
-
-   
-
-
     public static void main(String[] args) {
         // Definir un array de números predefinidos
         double[] numeros = {2,4,6,3,7,6,9};
