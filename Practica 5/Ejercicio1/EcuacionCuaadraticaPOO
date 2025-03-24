@@ -2,13 +2,6 @@ package com.mycompany.estadisticapoo;
 
 import java.util.Scanner;
 
-/**
- *
- * @author WINDOWS 11
- */
-
-
-  
 
 public class EstadisticaPOO{
     private double[] numeros;
