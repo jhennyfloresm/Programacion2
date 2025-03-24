@@ -6,14 +6,6 @@ package com.mycompany.estadisticapoo;
 
 import java.util.Scanner;
 
-/**
- *
- * @author WINDOWS 11
- */
-
-
-  
-
 public class EstadisticaPOO{
     private double[] numeros;
 
@@ -40,11 +32,6 @@ public class EstadisticaPOO{
         }
         return Math.sqrt(sumaDiferencias / (numeros.length - 1));
     }
-
-
-
-   
-
 
     public static void main(String[] args) {
         // Definir un array de números predefinidos
