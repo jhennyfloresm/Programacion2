@@ -49,7 +49,7 @@ class LineaTeleferico:
             print("No hay empleados para transferir.")
 
 
-# Ejemplo de uso
+
 linea1 = LineaTeleferico("lila", " 6 de marzo", 34)
 linea1.agregar_empleado("gawin jus", 27, 100)
 linea1.agregar_empleado("marck flores" , 24, 200)
